@@ -1,0 +1,41 @@
+#class_1{
+    background-image: url("../img/africa1.jpg");
+    background-size: 100%;
+    height: 145px;
+}
+.card {
+  background-color: black;
+   background-size: 100%;
+   height: 800px;
+}
+.col-container {
+    display: table;
+    width: 40% fit-content;
+}
+.col {
+   display: table-cell;
+   padding: 15;
+   border-radius: 9px;
+   border-style: groove;
+
+  border-color: palegoldenrod;
+}
+/* -- -----   *new* container  -- - --     --  --*/
+.col-container2 {
+    display: table;
+    width: 100%;
+}
+.col2 {
+    display: table-cell;
+}
+.footer {
+    background-color: rgb(39, 33, 33);
+    color: white;
+    font-size: 14px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#class_2{
+    background-image: url('../img/blackpanther.png');
+    background-size: 100%;
+    height: 340px;
+}
