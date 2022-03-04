@@ -1,4 +1,4 @@
-#  African Names.Inc
+#  African Names
 #### By **Edwin Ogwel**
 Has mastered HTML, CSS and JavaScript and now owns Codex Studio
 ## Description
@@ -14,7 +14,7 @@ Incase of any issues contact us at:
 * EMAIL: troubleshooting@codexstudio.com
 
 ## Link to live site on GitHub Pages
-* https://edwinogwel.github.io/week2project
+* https://edwinogwel.github.io/akannames/
 
 ### License
 **MIT**
