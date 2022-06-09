@@ -14,7 +14,7 @@ Incase of any issues contact us at:
 * EMAIL: troubleshooting@codexstudio.com
 
 ## Link to live site on GitHub Pages
-* https://edwinogwel.github.io/akannames/
+* https://edwinogwel.github.io/akan_names/
 
 ### License
 **MIT**
